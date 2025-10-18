@@ -5,11 +5,11 @@ A complete AI-powered content generation platform with a modern chat interface b
 ## 📸 Screenshots
 
 ### Chat Interface with Ollama (Local LLM)
-![Chat with Ollama](https://via.placeholder.com/800x450/003049/FCBF49?text=Chat+ONN+-+Ollama+Local+AI)
+![Chat with Ollama]([https://via.placeholder.com/800x450/003049/FCBF49?text=Chat+ONN+-+Ollama+Local+AI](https://github.com/AHILL-0121/ai-content-writer/blob/main/Images/image1.png?raw=true))
 *Replace with your screenshot: Upload to GitHub or image hosting service and update the URL above*
 
 ### Chat Interface with Gemini API
-![Chat with Gemini](https://via.placeholder.com/800x450/003049/F77F00?text=Chat+ONN+-+Gemini+AI)
+![Chat with Gemini]([https://via.placeholder.com/800x450/003049/F77F00?text=Chat+ONN+-+Gemini+AI](https://github.com/AHILL-0121/ai-content-writer/blob/main/Images/image2.png?raw=true))
 *Replace with your screenshot: Upload to GitHub or image hosting service and update the URL above*
 
 **To add your own screenshots:**
