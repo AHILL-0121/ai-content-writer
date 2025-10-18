@@ -10,10 +10,6 @@ A complete AI-powered content generation platform with a modern chat interface b
 ### Chat Interface with Gemini API
 ![Chat with Gemini](https://github.com/AHILL-0121/ai-content-writer/blob/main/Images/image2.png?raw=true)
 
-**To add your own screenshots:**
-1. Take screenshots of your app in action
-2. Upload to GitHub: Create an `assets` folder in your repo and add images
-3. Replace the URLs above with: `./assets/screenshot-ollama.png` and `./assets/screenshot-gemini.png`
 
 ## 🚀 Features
 
